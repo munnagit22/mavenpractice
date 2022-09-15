@@ -10,5 +10,14 @@ class Student
       {
 
        }
+ 
+      //ticket no- 322
+
+      void displayInfo()
+      {
+ 
+         System.out.println("Student Name="+ name);
+         System.out.pritnln("Address="+address);
+      }
 
  }
