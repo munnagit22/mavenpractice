@@ -33,5 +33,11 @@ class Student
             totalMarks>440?System.out.println("A"):System.out.println("B")
           
         }
+		
+		//ticket no 22
+		void test()
+		{
+			//do some logic here......
+		}
 
  }
